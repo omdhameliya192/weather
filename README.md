@@ -41,3 +41,4 @@ the weather data in depth for the selected location.
 
 ## Project Output :
 
+https://github.com/omdhameliya192/weather/assets/134936905/76633ea5-315c-467e-9ab6-359f2149c5d0
